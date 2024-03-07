@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class Lista {
+public class Pricipal {
 
     public static void main(String[] args) {
         ArrayList<Pessoa> pessoas = new ArrayList<>();
